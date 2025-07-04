@@ -120,6 +120,7 @@ Once you complete these 150 problems:
 - Visualize with **Matplotlib** or **Seaborn** https://github.com/BalajiKudumu/Data-Visualization-using-python-seaborn-plotly-cufflinks
 - Learn **Scikit-learn** for machine learning https://github.com/BalajiKudumu/Machine-Learning-Algorithms-Supervised-and-unsupervised
 - Hyperparameter-Optimization https://github.com/BalajiKudumu/Hyperparameter-Optimization
+- Gothrough the following repos https://github.com/BalajiKudumu?tab=repositories
 
 ---
 
