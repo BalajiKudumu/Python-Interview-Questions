@@ -115,10 +115,11 @@ Or import the problems into your Jupyter notebook for interactive learning.
 
 ## Recommendation
 Once you complete these 150 problems:
-- Start exploring **Pandas** for data manipulation
-- Use **NumPy** for numerical operations
-- Visualize with **Matplotlib** or **Seaborn**
-- Learn **Scikit-learn** for machine learning
+- Start exploring **Pandas** for data manipulation https://github.com/BalajiKudumu/Numpy-Pandas
+- Use **NumPy** for numerical operations https://github.com/BalajiKudumu/Numpy-Pandas
+- Visualize with **Matplotlib** or **Seaborn** https://github.com/BalajiKudumu/Data-Visualization-using-python-seaborn-plotly-cufflinks
+- Learn **Scikit-learn** for machine learning https://github.com/BalajiKudumu/Machine-Learning-Algorithms-Supervised-and-unsupervised
+- Hyperparameter-Optimization https://github.com/BalajiKudumu/Hyperparameter-Optimization
 
 ---
 
